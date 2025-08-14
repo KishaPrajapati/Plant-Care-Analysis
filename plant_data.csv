@@ -1,0 +1,31 @@
+Plant Name,Soil Type,Watering,Temperature,Sunlight Hours,Growth Rate,Height (cm)
+Rose,Loamy,Moderate,15-25°C,6,Medium,100
+Tulip,Sandy,Regular,10-20°C,6,Medium,40
+Cactus,Well-drained,Low,20-30°C,8,Slow,150
+Orchid,Bark-based,Frequent,18-28°C,4,Slow,60
+Bamboo,Moist,Medium,18-24°C,6,Fast,300
+Lavender,Well-drained,Low,15-25°C,8,Slow,90
+Sunflower,Loamy,Moderate,18-30°C,10,Fast,250
+Aloe Vera,Sandy,Low,20-30°C,6,Slow,50
+Fern,Moist soil,Frequent,16-24°C,4,Medium,70
+Money Plant,Well-drained,Medium,18-26°C,5,Medium,200
+Basil,Loamy,Regular,18-30°C,8,Fast,45
+Snake Plant,Sandy,Low,15-28°C,4,Slow,75
+Pothos,Well-drained,Medium,18-30°C,5,Fast,180
+Jasmine,Well-drained,Moderate,18-30°C,6,Medium,250
+Palm,Loamy,Moderate,20-35°C,6,Slow,500
+Spider Plant,Well-drained,Moderate,15-25°C,5,Fast,45
+Peperomia,Well-drained,Moderate,18-27°C,4,Medium,30
+Rubber Plant,Loamy,Medium,16-28°C,5,Medium,250
+Philodendron,Well-drained,Regular,18-30°C,5,Fast,180
+Succulent,Sandy,Low,20-35°C,8,Slow,30
+Croton,Well-drained,Moderate,18-30°C,6,Medium,120
+ZZ Plant,Well-drained,Low,15-28°C,4,Slow,90
+Dracaena,Well-drained,Moderate,18-30°C,5,Medium,200
+Begonia,Moist soil,Frequent,18-24°C,5,Medium,40
+Hydrangea,Well-drained,Regular,15-25°C,6,Medium,150
+Fiddle Leaf Fig,Loamy,Moderate,18-28°C,5,Slow,300
+Peace Lily,Moist soil,Frequent,18-26°C,4,Slow,60
+Chrysanthemum,Well-drained,Regular,15-25°C,6,Medium,90
+Pineapple,Well-drained,Moderate,20-32°C,8,Slow,100
+Daisy,Loamy,Regular,15-25°C,6,Medium,50

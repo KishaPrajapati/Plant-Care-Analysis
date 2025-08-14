@@ -1,0 +1,117 @@
+Plant Name,Season,Temperature (°C),Humidity (%),AQI
+Rose,Summer,28,50,60
+Rose,Winter,15,70,40
+Rose,Monsoon,22,80,50
+Rose,Spring,20,65,45
+Tulip,Summer,25,45,50
+Tulip,Winter,10,75,35
+Tulip,Monsoon,20,85,45
+Tulip,Spring,18,60,40
+Cactus,Summer,35,20,70
+Cactus,Winter,20,30,50
+Cactus,Monsoon,28,40,60
+Cactus,Spring,30,25,65
+Orchid,Summer,30,75,55
+Orchid,Winter,18,65,40
+Orchid,Monsoon,24,85,50
+Orchid,Spring,22,70,45
+Bamboo,Summer,32,60,65
+Bamboo,Winter,16,55,45
+Bamboo,Monsoon,26,75,55
+Bamboo,Spring,25,60,50
+Lavender,Summer,28,40,55
+Lavender,Winter,12,50,35
+Lavender,Monsoon,22,70,50
+Lavender,Spring,20,55,45
+Sunflower,Summer,34,55,65
+Sunflower,Winter,18,60,45
+Sunflower,Monsoon,28,75,55
+Sunflower,Spring,26,50,50
+Aloe Vera,Summer,33,30,70
+Aloe Vera,Winter,18,40,50
+Aloe Vera,Monsoon,27,60,60
+Aloe Vera,Spring,25,35,55
+Fern,Summer,26,75,55
+Fern,Winter,15,70,45
+Fern,Monsoon,22,85,50
+Fern,Spring,20,75,50
+Money Plant,Summer,30,65,60
+Money Plant,Winter,20,55,45
+Money Plant,Monsoon,25,80,55
+Money Plant,Spring,24,65,50
+Basil,Summer,32,50,65
+Basil,Winter,18,55,45
+Basil,Monsoon,26,75,55
+Basil,Spring,24,60,50
+Snake Plant,Summer,30,35,60
+Snake Plant,Winter,15,40,45
+Snake Plant,Monsoon,25,60,50
+Snake Plant,Spring,23,50,50
+Pothos,Summer,30,55,65
+Pothos,Winter,20,50,45
+Pothos,Monsoon,26,70,55
+Pothos,Spring,24,55,50
+Palm,Summer,35,50,75
+Palm,Winter,22,55,50
+Palm,Monsoon,28,65,60
+Palm,Spring,26,55,55
+Spider Plant,Summer,28,55,60
+Spider Plant,Winter,18,50,45
+Spider Plant,Monsoon,24,70,55
+Spider Plant,Spring,22,55,50
+Peperomia,Summer,30,65,55
+Peperomia,Winter,22,55,40
+Peperomia,Monsoon,26,75,50
+Peperomia,Spring,25,65,45
+Rubber Plant,Summer,32,60,65
+Rubber Plant,Winter,20,55,45
+Rubber Plant,Monsoon,26,75,55
+Rubber Plant,Spring,24,60,50
+Philodendron,Summer,30,55,65
+Philodendron,Winter,22,50,45
+Philodendron,Monsoon,26,70,55
+Philodendron,Spring,25,55,50
+Succulent,Summer,36,20,80
+Succulent,Winter,22,30,60
+Succulent,Monsoon,30,40,70
+Succulent,Spring,28,25,65
+Croton,Summer,28,50,60
+Croton,Winter,18,55,45
+Croton,Monsoon,24,70,55
+Croton,Spring,22,55,50
+ZZ Plant,Summer,30,35,60
+ZZ Plant,Winter,15,40,45
+ZZ Plant,Monsoon,25,60,50
+ZZ Plant,Spring,23,50,50
+Dracaena,Summer,30,55,65
+Dracaena,Winter,20,50,45
+Dracaena,Monsoon,26,70,55
+Dracaena,Spring,24,55,50
+Begonia,Summer,26,70,55
+Begonia,Winter,18,65,45
+Begonia,Monsoon,24,80,50
+Begonia,Spring,22,70,50
+Hydrangea,Summer,26,75,60
+Hydrangea,Winter,18,70,45
+Hydrangea,Monsoon,24,85,55
+Hydrangea,Spring,22,75,50
+Fiddle Leaf Fig,Summer,30,55,65
+Fiddle Leaf Fig,Winter,20,50,45
+Fiddle Leaf Fig,Monsoon,26,70,55
+Fiddle Leaf Fig,Spring,24,55,50
+Peace Lily,Summer,28,70,60
+Peace Lily,Winter,20,65,45
+Peace Lily,Monsoon,24,80,55
+Peace Lily,Spring,22,70,50
+Chrysanthemum,Summer,28,55,60
+Chrysanthemum,Winter,18,50,45
+Chrysanthemum,Monsoon,24,70,55
+Chrysanthemum,Spring,22,55,50
+Pineapple,Summer,34,50,70
+Pineapple,Winter,20,55,50
+Pineapple,Monsoon,28,65,60
+Pineapple,Spring,26,55,55
+Daisy,Summer,26,50,55
+Daisy,Winter,15,55,40
+Daisy,Monsoon,22,70,50
+Daisy,Spring,20,55,45
